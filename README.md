@@ -11,7 +11,7 @@ That's why.
 The Polytoria core is licensed under the MPL2 license,
 but the custom engine is based off of the [G3D Innovation](https://github.com/RomkoSI/G3D) engine, licensed under the [Modified BSD License](https://github.com/RomkoSI/G3D/blob/master/license.txt).
 
-Components built to adapt these are under an ARR license.
+Components built to adapt these are under the Polyform STRICT license.
 See LICENSE.TXT for more info.
 
 <img src="docs/header.svg" width="100%">
